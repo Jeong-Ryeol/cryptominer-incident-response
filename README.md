@@ -8,6 +8,8 @@
 **Severity:** High
 **Status:** Resolved
 
+> **See also: [Incident #2 (2026-03-28)](./INCIDENT-2026-03-28.md)** - Same attacker returned via Next.js Server Action RCE
+
 ---
 
 ## Executive Summary
